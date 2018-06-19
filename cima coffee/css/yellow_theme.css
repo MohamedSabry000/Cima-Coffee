@@ -1,0 +1,29 @@
+/**************************************************************** Start Default Theme **************************************************************/
+
+/************************* Start Option Box  *********************/
+.option-box .color-option,
+.testimonials .carousel-indicators li.active{
+    border: 3px solid #a5a22a;
+}
+.option-box .gear-check,
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus,
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus,
+.dropdown-menu .divider,
+.carousel-indicators .active{
+    background-color: #a5a22a;
+}
+.navbar-brand > span,
+.about h1 span,
+.testimonials span,
+.footer h3,
+.footer .copyright span{
+    color: #a5a22a;
+}
+.dropdown-menu {
+    border-top: 3px solid #a5a22a;
+}
+
+/**************************************************************** End Default Theme **************************************************************/
